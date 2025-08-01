@@ -42,9 +42,9 @@ JavaScript (ES6) – Conversion logic, sound, and light/dark toggle
 
 ## 📷 Screenshots
 
-| Dark Mode 🌙                          || Light Mode 🌞                           |
-|--------------------------------------- |------------------------------------------|
-| ![Dark Mode](images/screenshot1.png)   | ![Light Mode](images/screenshot2.png)    |
+| Dark Mode 🌙                          | Light Mode 🌞                           |
+|--------------------------------------|------------------------------------------|
+| ![Dark Mode](images/screenshot1.png) | ![Light Mode](images/screenshot2.png)   |
 
 ⚡ How to Run the Project
 
