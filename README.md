@@ -7,75 +7,76 @@ A simple, **professional-looking Temperature Converter** built using **HTML, CSS
 - ✅ **Conversion History (Last 5 Results)**  
 - ✅ **Clean, Modern, and Responsive Design**
 
-🚀 Features:
+---
 
-Convert temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K).
+## 🚀 Features
 
-Dark Mode / Light Mode toggle for better user experience.
+- Convert temperatures between Celsius (°C), Fahrenheit (°F), and Kelvin (K).
+- Dark Mode / Light Mode toggle for better user experience.
+- Click sound effect on buttons for interactive feedback.
+- Keeps last 5 conversions in history for quick reference.
+- Works on desktop and mobile browsers.
 
-Click sound effect on buttons for interactive feedback.
+---
 
-Keeps last 5 conversions in history for quick reference.
+## 📂 Project Structure
 
-Works on desktop and mobile browsers.
-
-📂 Project Structure:
-
+```
 Temperature_Converter_Pro/
-
 │── index.html      # Main webpage
-
 │── style.css       # Styling and theme
-
 │── script.js       # Functionality (conversion, toggle, sound)
-
 │── click.mp3       # Button click sound effect
-
 │── README.md       # Project documentation
-
+│── LICENSE         # MIT License file
 │── images/         # Folder for screenshots
-    
-🛠️ Technologies Used:
+```
+---
 
-HTML5 – Structure of the webpage
+## 🛠️ Technologies Used
 
-CSS3 – Styling, responsive design, and themes
+- **HTML5** – Structure of the webpage
+- **CSS3** – Styling, responsive design, and themes
+- **JavaScript (ES6)** – Conversion logic, sound, and light/dark toggle
 
-JavaScript (ES6) – Conversion logic, sound, and light/dark toggle
-
-📷 Screenshots:
+---
 
 ## 📷 Screenshots
 
 | Dark Mode 🌙                          | Light Mode 🌞                           |
 |---------------------------------------|------------------------------------------|
-| ![Dark Mode](images/screenshot1.png)  | ![Light Mode](images/screenshot_light.png)   |
+| ![Dark Mode](images/screenshot1.png)  | ![Light Mode](images/screenshot2.png)    |
 
+---
 
+## ⚡ How to Run the Project
 
-⚡ How to Run the Project
+1. Download or Clone this repository:
+   ```bash
+   git clone https://github.com/madhumithamohankumar/Temperature-Convertor.git
+   ```
+2. Open **index.html** in any modern browser.
+3. Start converting temperatures instantly! 🔥❄️
 
-Download or Clone this repository:
+---
 
-git clone https://github.com/yourusername/temperature-converter.git
+## 🌟 Future Enhancements
 
+- Add auto-convert while typing feature.
+- Add temperature icons or animations.
+- Add "Copy result" button for quick copying.
+- Deploy live on GitHub Pages.
 
-Open index.html in any modern browser.
+---
 
-Start converting temperatures instantly! 🔥❄️
+## 👩‍💻 Author
 
-🌟 Future Enhancements
-Add auto-convert while typing feature.
+**Madhumitha Mohankumar**  
+💼 Software Development Intern – SkillCraft Technology  
+📌 Project built using HTML, CSS, and JavaScript  
 
-Add temperature icons or animations.
+---
 
-Add "Copy result" button for quick copying.
+## 📜 License
 
-Deploy live on GitHub Pages.
-
-👩‍💻 Author:
-
-Madhumitha Mohankumar
-💼 Software Development Intern – SkillCraft Technology
-📌 Project built using HTML, CSS, and JavaScript
-
+This project is licensed under the [MIT License](LICENSE) – you are free to use, modify, and distribute this software with proper attribution.
