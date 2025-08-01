@@ -24,10 +24,15 @@ Works on desktop and mobile browsers.
 Temperature_Converter_Pro/
 
 │── index.html      # Main webpage
+
 │── style.css       # Styling and theme
+
 │── script.js       # Functionality (conversion, toggle, sound)
+
 │── click.mp3       # Button click sound effect
+
 │── README.md       # Project documentation
+
 │── images/         # Folder for screenshots
     
 🛠️ Technologies Used:
