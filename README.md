@@ -45,7 +45,7 @@ Temperature_Converter_Pro/
 
 | Dark Mode 🌙                          | Light Mode 🌞                           |
 |---------------------------------------|------------------------------------------|
-| ![Dark Mode](images/screenshot1.png)  | ![Light Mode](images/screenshot2.png)    |
+| ![Dark Mode](images/screenshot1.png)  | ![Light Mode](images/screenshot_light.png)    |
 
 ---
 
