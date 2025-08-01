@@ -1,0 +1,126 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(120deg, #3a7bd5, #3a6073);
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  transition: background 0.3s, color 0.3s;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 30px;
+  width: 400px;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: background 0.3s, color 0.3s;
+}
+
+.toggle-container {
+  text-align: right;
+}
+
+#themeToggle {
+  background: transparent;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.3s;
+}
+
+#themeToggle:hover {
+  transform: scale(1.2);
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.input-group {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+input, select {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  width: 48%;
+}
+
+.result {
+  margin: 20px 0;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn-group button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-group button:hover {
+  opacity: 0.8;
+}
+
+button {
+  background: #4caf50;
+  color: white;
+}
+
+.reset {
+  background: #e74c3c;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  text-align: left;
+}
+
+ul li {
+  background: rgba(255, 255, 255, 0.12);
+  padding: 6px;
+  margin: 4px 0;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* 🌞 Light Mode */
+.light-mode {
+  background: linear-gradient(120deg, #f5f7fa, #c3cfe2);
+  color: #000;
+}
+
+.light-mode .container {
+  background: rgba(0, 0, 0, 0.05);
+  color: #000;
+}
+
+.light-mode .result,
+.light-mode ul li {
+  background: rgba(0, 0, 0, 0.08);
+  color: #000;
+}
+
+.light-mode #themeToggle {
+  color: #000;
+}
